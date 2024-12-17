@@ -1,9 +1,11 @@
-import React from 'react'
 
-const useEffect = () => {
+
+const UseEffectExample = () => {
   return (
-    <div>useEffect</div>
+    <div>
+      <h1>Post</h1>
+    </div>
   )
 }
 
-export default useEffect
+export default UseEffectExample
