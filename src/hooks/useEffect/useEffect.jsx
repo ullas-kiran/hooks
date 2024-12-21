@@ -11,7 +11,6 @@ const [data,setData]=useState([])
 
   return (
     <div>
-      <h1>Post</h1>
       <ul>
         {data.map((item,index)=>{
           return(
